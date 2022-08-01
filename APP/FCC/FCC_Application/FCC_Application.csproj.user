@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AppMainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Additional\Found_Equipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Additional\MathModelCalculation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Additional\Task.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_catalyst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_numbers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_numbers_catalysts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_numbers_raw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_parametr_catalysts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_parametr_raw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_parametr_tech.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_raw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_stamp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_technological.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_type.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_parametr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms_admin\F_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Main\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Main\AuthorizationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Main\PlannerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
